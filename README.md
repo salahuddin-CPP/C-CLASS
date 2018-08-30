@@ -1,2 +1,2 @@
 # TEST2
-C and CPP tests
+this repository is for testing C 
